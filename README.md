@@ -25,6 +25,8 @@ User-friendly web interface to upload CT scans, view model results, visualize ma
 <img width="742" height="488" alt="image" src="https://github.com/user-attachments/assets/96eadf42-4747-4867-be61-721d9dfa0597" />
 <img width="793" height="282" alt="image" src="https://github.com/user-attachments/assets/0ca0b440-071d-4c2d-a17b-20563c6742ca" />
 <img width="735" height="398" alt="image" src="https://github.com/user-attachments/assets/245ba708-b2b2-41a1-ab2f-2467adaebbfb" />
+<img width="940" height="144" alt="image" src="https://github.com/user-attachments/assets/263a5ddb-8237-4a50-9527-0a99e2cf615e" />
+<img width="940" height="302" alt="image" src="https://github.com/user-attachments/assets/29facf4c-70de-4431-92f8-c9dde61d497e" />
 
 
 
