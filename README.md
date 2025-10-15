@@ -18,6 +18,7 @@ Exports structured diagnostic reports following medical imaging standards.
 🌐 Streamlit Dashboard
 User-friendly web interface to upload CT scans, view model results, visualize masks, and manage patient records.
 
+<img width="771" height="331" alt="image" src="https://github.com/user-attachments/assets/b7098f98-1417-4ace-9af7-eb30e1d330c2" />
 
 <img width="486" height="214" alt="image" src="https://github.com/user-attachments/assets/20e5e2d5-23db-4fc0-89f5-58298d063eea" />
 <img width="565" height="139" alt="image" src="https://github.com/user-attachments/assets/f1e0c15b-4e25-4c07-a07f-9716f2d5c247" />
