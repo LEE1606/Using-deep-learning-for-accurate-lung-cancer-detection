@@ -1,3 +1,5 @@
+🫁 Using Machine Learning for Accurate Lung Cancer Detection
+
 This project presents a CT-based lung cancer detection system that combines deep learning classification and unsupervised segmentation into a lightweight and explainable diagnostic workflow. The system integrates EfficientNetB1 for cancer classification and Fuzzy C-Means (FRFCM) segmentation for tumor region localization, wrapped within an interactive Streamlit dashboard and supported by a SQLite database for case management and result archiving.
 🚀 Key Features
 
