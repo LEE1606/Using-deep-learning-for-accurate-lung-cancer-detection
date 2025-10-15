@@ -18,16 +18,7 @@ Exports structured diagnostic reports following medical imaging standards.
 🌐 Streamlit Dashboard
 User-friendly web interface to upload CT scans, view model results, visualize masks, and manage patient records.
 
-<img width="771" height="331" alt="image" src="https://github.com/user-attachments/assets/b7098f98-1417-4ace-9af7-eb30e1d330c2" />
-<img width="940" height="229" alt="image" src="https://github.com/user-attachments/assets/591c3349-ea36-4bf1-ae46-fd0c9edbfda6" />
-<img width="733" height="379" alt="image" src="https://github.com/user-attachments/assets/673022e4-3a14-42cc-8488-86a45b003663" />
-<img width="759" height="345" alt="image" src="https://github.com/user-attachments/assets/b929247b-f1b5-4264-b6b5-195787d5cb50" />
-<img width="742" height="488" alt="image" src="https://github.com/user-attachments/assets/96eadf42-4747-4867-be61-721d9dfa0597" />
-<img width="793" height="282" alt="image" src="https://github.com/user-attachments/assets/0ca0b440-071d-4c2d-a17b-20563c6742ca" />
-<img width="735" height="398" alt="image" src="https://github.com/user-attachments/assets/245ba708-b2b2-41a1-ab2f-2467adaebbfb" />
-<img width="940" height="144" alt="image" src="https://github.com/user-attachments/assets/263a5ddb-8237-4a50-9527-0a99e2cf615e" />
-<img width="940" height="302" alt="image" src="https://github.com/user-attachments/assets/29facf4c-70de-4431-92f8-c9dde61d497e" />
-
-
+Look at my demonstration video!
+https://www.youtube.com/watch?v=eGjvr0oPWng
 
 
